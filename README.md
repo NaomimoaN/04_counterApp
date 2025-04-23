@@ -1,7 +1,8 @@
 ##### 🔍 Introduction
-This project was created during my second month of learning React @Langara college WMDD
-It was a great hands-on experience that helped me understand key concepts like state and props more deeply. By building this app, I gained a better grasp of how to manage state with React hooks such as useState and useEffect, and how to handle user interactions using onClick and onMouseDown.
-
+This small project was part of my daily practice during my second month of learning React at Langara College (WMDD).
+It was a simple hands-on exercise that helped me reinforce the basics of state and props.
+Through building this mini counter app, I practiced using React hooks like useState and useEffect,
+and learned how to handle user interactions with onClick and onMouseDown.
 
 #####  🧮 React Counter with Hold-to-Increment Feature
 A simple React project with two counters:
